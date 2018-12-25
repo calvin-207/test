@@ -22,6 +22,9 @@
 8. 简述如果让你学习一个新的知识（新的领域），你会如何入手，并制定自己的学习计划？
 
 9. 针对如下图片，请写出不下5条的优化方案？
+	* ![物资详情](https://github.com/calvin-207/test/blob/master/img/t001.png?raw=true)
+	* ![已报价](https://github.com/calvin-207/test/blob/master/img/t002.png?raw=true)
+	* ![报价](https://github.com/calvin-207/test/blob/master/img/t003.png?raw=true)
 
 ## 交卷方式
 
